@@ -1,6 +1,6 @@
 echo -e "$123\n$123\n" | sudo passwd
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
-wget -O ng.sh https://raw.githubusercontent.com/efxtv/RDP-rdp.md/main/rdp/ng.sh?token=GHSAT0AAAAAABXSQIIURQOZRMNN57ADK76MY2P55IQ > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/efxtv/Free-RDP-Linux-Windows/main/rdp/ng.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 clear
