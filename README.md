@@ -1,4 +1,6 @@
 # Kaali Linux Free RDP
+Click here to visit google console 
+<a href="https://console.cloud.google.com/welcome?project=storied-key-295608">Click here to visit Google Console </a>
 <pre><code>wget -O kali.sh https://raw.githubusercontent.com/efxtv/Free-RDP-Linux-Windows/main/rdp/kali.sh > /dev/null 2>&1</code></pre>
 
 <pre><code>chmod +x kali.sh</code></pre>
