@@ -4,3 +4,20 @@
 <pre><code>chmod +x kali.sh</code></pre>
 
 <pre><code>./kali.sh</code></pre>
+
+# Windows 10 Azure (2 Hours)
+<a href="https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/1-introduction">Click here and login to Outlook.com</a><pre><code>curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus </code></pre>
+
+# Windows 11 Azure (2 Hours)
+
+<a href="https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/1-introduction">Click here and login to Outlook.com</a>
+<pre><code>curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm </code></pre>
+
+
+# Windows 10 (6 Hours)
+<a href="https://github.com/adtitas/ngrok-rdp">Github Repo</a>
+
+
+# Windows 10 (24 Hours)
+<a href="https://github.com/earthprotector1610/windows2022-rdp">Github Repo</a>
+
