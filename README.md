@@ -1,3 +1,7 @@
+# Click and play windows 10 RDP
+
+<a href="https://app.apponfly.com/trial">Click here to visit. </a>
+
 # Ubuntu XFCE/Windows
 
 <a href="https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb">Click here to visit colab. </a>
